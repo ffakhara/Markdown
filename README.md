@@ -39,3 +39,7 @@ For Terminal
 ![My capture](./images/img.png)
 
 For more info,visit [Github Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) website.
+
+when you are using two or more headings,Github atomatically generates a table [^1] of contents which you can access by clicking within the file header.Each heading title is listed in the table of contentsand you can click a title to navigate to the selected section.
+
+[^1]:(That is to refer stable)
