@@ -33,3 +33,9 @@ sudo apt upgrade -y
 ```
 For Terminal
 ```sudo apt update```
+
+![online image](https://fsymbols.com/images/font/smallcaps.png)
+
+! [My capture](images/img.png)
+
+For more info,visit [Github Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) website.
