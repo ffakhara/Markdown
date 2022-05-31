@@ -42,4 +42,17 @@ For more info,visit [Github Docs](https://docs.github.com/en/get-started/writing
 
 when you are using two or more headings,Github atomatically generates a table [^1] of contents which you can access by clicking within the file header.Each heading title is listed in the table of contentsand you can click a title to navigate to the selected section.
 
+| First Column |  Second Column |  Third column |
+| :---          |     :---:         |     ---:    |
+|Sudo          |Linux                 |Windows     |
+|NPM           |Nodejs                |Code        |
+
+This Project support:
+[x] Windows
+[x] Linus
+[]  IOS
+
+
+
 [^1]:(That is to refer stable)
+
